@@ -2,7 +2,7 @@
 ### Phrase
 
 ## Overview
-![screenshot](./screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 ## Technologies
 * HTML5
